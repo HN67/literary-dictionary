@@ -19,7 +19,7 @@ var words = {"A": "Archetype",
 			 "N": "Nemesis",
 			 "O": "Omnipotent",
 			 "P": "Portmanteau",
-			 "Q": "Quadrivium",
+			 "Q": "Quest Motif",
 			 "R": "Red Herring",
 			 "S": "Straw Man",
 			 "T": "Tautology",
@@ -70,12 +70,14 @@ var definitions = {"A": `
 					   `,
 				   "M": `Metonymy is a figure of speech where something is referred to by the name of something else that is closely related. Metonymy is distinct from metaphor by that whereas metaphor takes the qualities of one object and places it on another, metonymy simply suggests another object by the use of one through common association. A common form of metonymy is synecdoche, where the object used to refer to another is a part of the greater whole.
 					   `,
-				   "N": ``,
+				   "N": `Nemesis actually has two common definitions, one of which is based on the other. The base definition of nemesis is the long standing arch-rival/enemy of someone. The other definition is on top of this, where the nemesis of someone is the agent that causes their inevitable downfall. A nemesis is close in concept in literature to an antagonist, though a nemesis is specifically an antagonist who intentionally wants to harm the protagonist.
+					   `,
 				   "O": `An omnipotent being is one who is literally able to do anything. Omnipotence is typically referred to as god. Omniscience in literature, is text that is written in third-person from an all-knowing narrator. This narrator knows the thoughts, beliefs and decisions of every character in the story. 
 					   `,
 				   "P": `Portmanteau is a literary device in which two or more words are combined to form a new word with similar meaning. The mixing of the two words typically involve the initial letters of the first word, and closing letters of the second. The process is used to describe ideas that are not easily describable in the English language. 
 					   `,
-				   "Q": ``,
+				   "Q": `A quest motif is a motif in which a hero must undergo a dangerous and lengthy adventure or quest. Often, the quest motif becomes the primary narrative for the piece of literature. The quest can be for any purpose.
+					   `,
 				   "R": `A red herring is something that by seeming to be important distracts an audience from what is truly important, while the herring itself is actually unimportant. As a literary device, red herrings are most common in mystery fiction, where the protagonist and/or reader are given a false trail away from the real solution to the mystery. 
 					   `,
 				   "S": `A straw man is an illogical fallacy where an arguer will take their opponent’s argument and replace it with one that is easier to refute, giving the impression of refuting their opponent’s argument while actually refuting a much weaker position. A common form of a straw man argument is the slippery slope argument, where the person argues against a proposition based on an exaggerated version that it could become, instead of arguing the actual proposition.
@@ -151,7 +153,8 @@ var examples = {"A": `
 					`,
 				"P": `The most common example of a Portmanteau is combining the words breakfast and lunch, to call it brunch. The first two letters of breakfast and ending four letters of lunch are put together to form a word to define the act of eating both breakfast and lunch at once. Rather than referring the meal to eating breakfast and lunch at the same time, it is typical for people to just call it “brunch”. 
 					`,
-				"Q": ``,
+				"Q": `The quest motif is extremely common, both in ancient and modern literature. Some historical examples are Gilgamesh’s quest for eternal life in <em>The Epic of Gilgamesh</em>, the quest for the Holy Grail, Odysseus’s 10 year journey back to Ithaca after the Trojan war, and the quest to dispose of the Ring of Sauron in Lord of the Rings, among many others. 
+					`,
 				"R": `An example of red herring is from one of Agatha Christie’s mystery novels And Then There Were None, where 10 isolated people are slowly killed off one at a time. When there are 4 left and one suddenly goes missing, the remaining three assume that they must have been the killer, until they later find the fourth person dead, revealing it to be a red herring.
 					  <br><br>
 					  Another example is in the Sherlock Holmes novel The Final Problem, where Watson receives an urgent call to return to the hotel to treat to an injured woman, but upon arrival discovers there was no woman and it was a ploy to separate Watson and Holmes.
