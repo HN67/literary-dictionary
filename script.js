@@ -145,10 +145,12 @@ var examples = {"A": `
 					`,
 				"M": `A common example of metonymy is using “hands” to refer to workers in general, and this is also a synecdoche, as part of the worker (the hand) is used to refer to the worker as a whole. Another example of metonymy is calling the monarchy “the Crown” where a crown is closely related to monarchy, therefore being capable of being used to directly represent the monarchy. When “The White House” is used to represent the executive branch of government, it is a metonymy, but if it is used to represent the government as a whole it is also a synecdoche. 
 					`,
-				"N": ``,
+				"N": `An example of a nemesis in popular culture is Voldemort to Harry in the series Harry Potter, since Voldemort is constantly attacking Harry and being a general antagonist all throughout the series.
+					`,
 				"O": `An example of omnipotence is a third person narrator within a literature. This can be portrayed through a story, image, or even a quote. For instance, Albert Einstein once said: "A person who never made a mistake never tried anything new." The quote is spoken from an outside perspective as Einstein speaking his beliefs on human behaviour in general.
 					`,
-				"P": ``,
+				"P": `The most common example of a Portmanteau is combining the words breakfast and lunch, to call it brunch. The first two letters of breakfast and ending four letters of lunch are put together to form a word to define the act of eating both breakfast and lunch at once. Rather than referring the meal to eating breakfast and lunch at the same time, it is typical for people to just call it “brunch”. 
+					`,
 				"Q": ``,
 				"R": `An example of red herring is from one of Agatha Christie’s mystery novels And Then There Were None, where 10 isolated people are slowly killed off one at a time. When there are 4 left and one suddenly goes missing, the remaining three assume that they must have been the killer, until they later find the fourth person dead, revealing it to be a red herring.
 					  <br><br>
@@ -170,7 +172,8 @@ var examples = {"A": `
 					  `,
 				"W": `An example of Weltanschauung dates back to the early First Nation’s folk of Canada. The spiritual connection they had with their land describes the meaning of Weltanschauung.
 					`,
-				"X": ``,
+				"X": `Since Xenia is a Greek concept, many strong examples can be found from the Iliad and Odyssey. In the Odyssey, and example of bad Xenia is when the suitors make a nuisance of themselves, constantly pestering Penelope, gluttonously taking advantage of the household, and being rude to other guests such as the disguised Odysseus, thereby violating their responsibilities as guests.
+					`,
 				"Y": `An example of Yarn could go as follows: Person A is talking to Person B about his journey to Dubai. Person A talks about an engine failure causing the plane to hurl towards the ground. The plane engineers ended up fixing the damage to allow the passengers to fly safely for the remainder of the flight. In reality, however, the “engine failure” could have just been slight turbulence. 
 					`,
 				"Z": `An example of Zeugma being used in a sentence goes as following: She broke his car and his heart. A reader could take plenty away from this sentence, however, it is most evident that a female broke another man’s car (literally) and his heart (figuratively). The use of Zeugma shows the feelings of both members of the relationship in this situation.The first couple words indicates the female’s anger or distress as she felt the need to damage her ex-boyfriend’s car. The second half of the phrase indicates the feelings of the male as we are now aware he is feeling melancholy. 
